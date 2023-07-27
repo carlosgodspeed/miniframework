@@ -1,13 +1,6 @@
 <?php
-    
-    echo '<pre>';
-    echo 'funcionando perfeitamente';
-    echo '</pre>';
-    echo '<pre>';
-    echo 'funcionando perfeitamente';
-    echo '</pre>';
-    echo '<pre>';
-    echo 'funcionando perfeitamente';
-    echo '</pre>';
+
+	require_once "../vendor/autoload.php";
+	echo 'Isso está funcionando';
 
 ?>
